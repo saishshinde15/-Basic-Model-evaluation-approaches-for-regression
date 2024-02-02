@@ -1,2 +1,2 @@
-# -Basic-Model-evaluation-approaches-for-regression
+# -Basic-Model-evaluation-approaches
 train and test split (beginner)
